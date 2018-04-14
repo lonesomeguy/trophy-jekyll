@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Craft Beer"
+title: "Bia thủ công"
 date: 2016-02-19
 categories:
   - Juice
@@ -8,6 +8,10 @@ description:
 image: https://picsum.photos/2000/1200?image=1003
 image-sm: https://picsum.photos/500/300?image=1003
 ---
+Chào em, như lần đầu vẫn luôn trọn vẹn
+ngược xuôi cùng những bon chen
+nơi ta quen thật ngẫu nhiên mà lại sắp đặt
+như cơn vui lan ra khắp mặt
 Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
 
 <ul>
