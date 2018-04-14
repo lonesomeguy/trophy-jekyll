@@ -21,7 +21,7 @@ social:
   facebook: https://www.facebook.com/anhtu255
   google-plus: https://plus.google.com/107458005734150435400
   soundcloud: https://soundcloud.com/kudo2505
-  instagram: anhtu2505
+  instagram: https://instagram.com/anhtu2505
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
